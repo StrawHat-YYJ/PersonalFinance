@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "D:\\AndroidStudioProjects\\a\\app\\build\\intermediates\\res\\merged\\debug\\layout-hdpi-v4\\addnodes_earnings.xml",
+        "source": "D:\\AndroidStudioProjects\\a\\app\\src\\main\\res\\layout-hdpi\\addnodes_earnings.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\a\\app\\build\\intermediates\\res\\merged\\debug\\layout-hdpi-v4\\main_listview_calculation.xml",
+        "source": "D:\\AndroidStudioProjects\\a\\app\\src\\main\\res\\layout-hdpi\\main_listview_calculation.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\a\\app\\build\\intermediates\\res\\merged\\debug\\layout-hdpi-v4\\main_listview_datareport.xml",
+        "source": "D:\\AndroidStudioProjects\\a\\app\\src\\main\\res\\layout-hdpi\\main_listview_datareport.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\a\\app\\build\\intermediates\\res\\merged\\debug\\layout-hdpi-v4\\specific_data_data.xml",
+        "source": "D:\\AndroidStudioProjects\\a\\app\\src\\main\\res\\layout-hdpi\\specific_data_data.xml"
+    }
+]

@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "D:\\AndroidStudioProjects\\a\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\app_list_corner_round.xml",
+        "source": "D:\\AndroidStudioProjects\\a\\app\\src\\main\\res\\drawable-hdpi\\app_list_corner_round.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\a\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\app_list_corner_round_bottom.xml",
+        "source": "D:\\AndroidStudioProjects\\a\\app\\src\\main\\res\\drawable-hdpi\\app_list_corner_round_bottom.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\a\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\background_login.xml",
+        "source": "D:\\AndroidStudioProjects\\a\\app\\src\\main\\res\\drawable-hdpi\\background_login.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\a\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\app_list_corner_round_top.xml",
+        "source": "D:\\AndroidStudioProjects\\a\\app\\src\\main\\res\\drawable-hdpi\\app_list_corner_round_top.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\a\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\background_login_div_bg.xml",
+        "source": "D:\\AndroidStudioProjects\\a\\app\\src\\main\\res\\drawable-hdpi\\background_login_div_bg.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\a\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\app_list_corner_shape.xml",
+        "source": "D:\\AndroidStudioProjects\\a\\app\\src\\main\\res\\drawable-hdpi\\app_list_corner_shape.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\a\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\background_button.xml",
+        "source": "D:\\AndroidStudioProjects\\a\\app\\src\\main\\res\\drawable-hdpi\\background_button.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\a\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\background_main_button.xml",
+        "source": "D:\\AndroidStudioProjects\\a\\app\\src\\main\\res\\drawable-hdpi\\background_main_button.xml"
+    }
+]

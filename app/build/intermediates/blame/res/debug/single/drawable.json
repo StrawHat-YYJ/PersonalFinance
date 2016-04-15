@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "D:\\AndroidStudioProjects\\a\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_3.png",
+        "source": "D:\\AndroidStudioProjects\\a\\app\\src\\main\\res\\drawable\\bg_3.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\a\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\app_list_corner_border.png",
+        "source": "D:\\AndroidStudioProjects\\a\\app\\src\\main\\res\\drawable\\app_list_corner_border.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\a\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\login_otherpet.png",
+        "source": "D:\\AndroidStudioProjects\\a\\app\\src\\main\\res\\drawable\\login_otherpet.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\a\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\login_pet_3.png",
+        "source": "D:\\AndroidStudioProjects\\a\\app\\src\\main\\res\\drawable\\login_pet_3.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\a\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\loginpet_3.png",
+        "source": "D:\\AndroidStudioProjects\\a\\app\\src\\main\\res\\drawable\\loginpet_3.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\a\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_launcher.png",
+        "source": "D:\\AndroidStudioProjects\\a\\app\\src\\main\\res\\drawable\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\a\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\background_login_button.png",
+        "source": "D:\\AndroidStudioProjects\\a\\app\\src\\main\\res\\drawable\\background_login_button.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\a\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\login_pet.png",
+        "source": "D:\\AndroidStudioProjects\\a\\app\\src\\main\\res\\drawable\\login_pet.png"
+    }
+]

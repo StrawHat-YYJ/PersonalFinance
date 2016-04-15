@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/app/src/main/res/drawable-mdpi/ic_launcher.png" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/ic_launcher.png" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/ic_launcher.png" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/drawable/app_list_corner_border.png" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/drawable/background_login_button.png" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/drawable/background_login_button.png" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/drawable/bg_3.png" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/drawable/ic_launcher.png" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/drawable/ic_launcher.png" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/drawable/login_otherpet.png" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/drawable/login_pet.png" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/drawable/login_pet_3.png" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/drawable/loginpet_3.png" charset="GBK" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>

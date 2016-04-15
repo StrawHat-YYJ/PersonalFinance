@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.seventh.personalfinance"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="8"
+        android:targetSdkVersion="18" />
+
+    <instrumentation
+        android:name="android.test.InstrumentationTestRunner"
+        android:label="Tests for My App"
+        android:targetPackage="com.seventh.personalfinance" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@android:style/Theme.DeviceDefault.NoActionBar.Fullscreen" >
+        <uses-library android:name="android.test.runner" />
+
+        <activity
+            android:name="com.seventh.personalfinance.MainActivity"
+            android:label="@string/app_name" 
+            android:launchMode="singleTask" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.seventh.personalfinance.Login"
+            android:label="@string/app_name" 
+            android:launchMode="singleTask">
+        </activity>
+        <activity
+            android:name="com.seventh.personalfinance.AddNodes"
+            android:label="@string/app_name"
+            android:launchMode="singleTask">
+        </activity>
+        <activity
+            android:name="com.seventh.personalfinance.PieChartActivity"
+            android:label="@string/app_name"
+            android:launchMode="singleTask">
+        </activity>
+
+        <activity
+            android:name="com.seventh.personalfinance.LineChartActivity"
+            android:label="@string/app_name"
+            android:launchMode="singleTask">
+        </activity>
+        <activity
+            android:name="com.seventh.personalfinance.SpecificData"
+            android:label="@string/app_name"
+            android:launchMode="singleTask" >
+        </activity>
+         <activity
+            android:name="com.seventh.personalfinance.MoreAction"
+            android:label="@string/app_name"
+            android:launchMode="singleTask" >
+        </activity>
+        <activity
+            android:name="com.seventh.personalfinance.Registration"
+            android:theme="@android:style/Theme.Holo.Dialog.NoActionBar"
+            android:label="@string/app_name" >
+        </activity>
+
+    </application>
+
+
+</manifest>

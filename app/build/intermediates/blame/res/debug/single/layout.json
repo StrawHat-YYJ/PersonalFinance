@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "D:\\AndroidStudioProjects\\a\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_registration.xml",
+        "source": "D:\\AndroidStudioProjects\\a\\app\\src\\main\\res\\layout\\activity_registration.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\a\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_mainactivity.xml",
+        "source": "D:\\AndroidStudioProjects\\a\\app\\src\\main\\res\\layout\\activity_mainactivity.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\a\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_more_action.xml",
+        "source": "D:\\AndroidStudioProjects\\a\\app\\src\\main\\res\\layout\\activity_more_action.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\a\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_addnodes.xml",
+        "source": "D:\\AndroidStudioProjects\\a\\app\\src\\main\\res\\layout\\activity_addnodes.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\a\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_specific_data.xml",
+        "source": "D:\\AndroidStudioProjects\\a\\app\\src\\main\\res\\layout\\activity_specific_data.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\a\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_linechart.xml",
+        "source": "D:\\AndroidStudioProjects\\a\\app\\src\\main\\res\\layout\\activity_linechart.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\a\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_piechart.xml",
+        "source": "D:\\AndroidStudioProjects\\a\\app\\src\\main\\res\\layout\\activity_piechart.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\a\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_login.xml",
+        "source": "D:\\AndroidStudioProjects\\a\\app\\src\\main\\res\\layout\\activity_login.xml"
+    }
+]

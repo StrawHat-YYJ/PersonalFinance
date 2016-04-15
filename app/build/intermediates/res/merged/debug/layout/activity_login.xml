@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="#fff"
+    android:gravity="center"
+    android:orientation="vertical" >
+
+    <RelativeLayout
+        android:id="@+id/login_div"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="15dip"
+        android:background="@drawable/background_login_div_bg"
+        android:padding="15dip" >
+
+        <TextView
+            android:id="@+id/nameTv"
+            android:layout_width="wrap_content"
+            android:layout_height="50dp"
+            android:text="账号："
+            android:gravity="center"
+            android:textColor="#696969"
+            android:textSize="25sp"
+            android:layout_marginBottom="20dp"/>
+
+        <EditText
+            android:id="@+id/et_login_name"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="@string/login_username_hint"
+            android:inputType="text"
+            android:textColor="#000"
+            android:singleLine="true"
+            android:layout_toRightOf="@+id/nameTv"
+            android:layout_alignBottom="@+id/nameTv">
+
+            <requestFocus />
+        </EditText>
+        <TextView
+            android:id="@+id/psTv"
+            android:layout_width="wrap_content"
+            android:layout_height="50dp"
+            android:gravity="center"
+            android:text="密码："
+            android:textSize="25sp"
+            android:textColor="#696969"
+            android:layout_below="@+id/nameTv"
+            android:layout_alignLeft="@+id/nameTv"/>
+
+
+        <EditText
+            android:id="@+id/et_login_password"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+
+            android:layout_toRightOf="@+id/psTv"
+            android:layout_alignBottom="@+id/psTv"
+            android:hint="@string/login_pwd_hint"
+            android:inputType="textPassword"
+            android:singleLine="true"
+            android:textColor="#000"/>
+
+        <Button
+            android:id="@+id/bt_login_ok"
+            android:layout_width="100dip"
+            android:layout_height="40dip"
+            android:layout_marginTop="10dp"
+            android:layout_alignRight="@id/et_login_password"
+            android:layout_below="@id/et_login_password"
+            android:background="@drawable/background_button"
+            android:text="@string/login_label_ok" />
+
+        <Button
+            android:id="@+id/bt_login_cancel"
+            android:layout_width="100dip"
+            android:layout_height="40dip"
+            android:layout_marginTop="10dp"
+            android:layout_below="@id/et_login_password"
+            android:layout_marginRight="20dp"
+            android:layout_toLeftOf="@id/bt_login_ok"
+            android:background="@drawable/background_button"
+            android:text="@string/login_lable_cancel" />
+    </RelativeLayout>
+
+    <TextView
+        android:id="@+id/tv_login_register_link"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/login_div"
+        android:gravity="center"
+        android:text="@string/login_register_link"
+        android:textColor="#BEBEBE"
+        android:textColorLink="#00CED1"
+        android:textSize="20dip" />
+
+</RelativeLayout>
